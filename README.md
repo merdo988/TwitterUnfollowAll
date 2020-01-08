@@ -6,4 +6,4 @@ You can easly unfollow to nonfollowers.
 
 Edit to connection.php to use
 
-Demo Here : http://trscript.net/twapp/
+Demo Here : http://trscript.net/tw/
